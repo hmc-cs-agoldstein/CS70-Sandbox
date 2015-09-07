@@ -5,9 +5,6 @@ Edit Made, should be pushed by agoldstein
 
 Edit made, should be pushed by pdigiacomo
 
-<<<<<<< HEAD
 Hello
-=======
 Here's another edit that should result in a merge conflict.
 It should screw everything up a bit.
->>>>>>> 99235411329f7e2ca9c3f19ffd60fa106d7e72cb
